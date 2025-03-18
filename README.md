@@ -23,25 +23,3 @@ applying some polymorphism and OOP concepts.
 ![Choosing Payment](https://res.cloudinary.com/ein39/image/upload/v1659458269/Expedia.com/Screenshot_from_2022-08-02_18-22-49_bkgmlr.png)
 ![Total cost](https://res.cloudinary.com/ein39/image/upload/v1659458269/Expedia.com/Screenshot_from_2022-08-02_18-23-21_k3tnkp.png)
 
-
-
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/3ein39/Expedia.com
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Run the main.cpp file using a cpp compiler
-
-```text
-  username : user
-  password : 111
-
