@@ -18,8 +18,3 @@ applying some polymorphism and OOP concepts.
 
 
 
-![User Interface](https://res.cloudinary.com/ein39/image/upload/v1659458269/Expedia.com/Screenshot_from_2022-08-02_18-18-11_h8m7cw.png)
-![Booking a flight](https://res.cloudinary.com/ein39/image/upload/v1659458269/Expedia.com/Screenshot_from_2022-08-02_18-21-15_uknafr.png)
-![Choosing Payment](https://res.cloudinary.com/ein39/image/upload/v1659458269/Expedia.com/Screenshot_from_2022-08-02_18-22-49_bkgmlr.png)
-![Total cost](https://res.cloudinary.com/ein39/image/upload/v1659458269/Expedia.com/Screenshot_from_2022-08-02_18-23-21_k3tnkp.png)
-
